@@ -8,6 +8,7 @@ import Valid from './utils/valid'
 import '@/styles/base.scss'
 import 'view-design/dist/styles/iview.css'
 
+// use ViewUI
 Vue.use(ViewUI);
 
 Vue.prototype.$Valid = Valid;
